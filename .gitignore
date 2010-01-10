@@ -1,0 +1,15 @@
+.DS_Store
+coverage/*
+log/*.log
+db/*.db
+db/*.sqlite3
+db/schema.rb
+tmp/**/*
+doc/api
+doc/app
+doc/plugins
+doc/specs
+spec/spec.opts
+config/database.yml
+config/deploy.rb
+coverage/*
